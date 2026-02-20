@@ -3,9 +3,9 @@ package main
 import (
 	"os"
 
-	"github.com/athulrajhere/todo-cli/cli"
-	"github.com/athulrajhere/todo-cli/storage"
-	"github.com/athulrajhere/todo-cli/todo"
+	"github.com/athulrajhere/todocli/cli"
+	"github.com/athulrajhere/todocli/storage"
+	"github.com/athulrajhere/todocli/todo"
 )
 
 func main() {

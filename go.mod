@@ -1,4 +1,4 @@
-module github.com/athulrajhere/todo-cli
+module github.com/athulrajhere/todocli
 
 go 1.25.0
 

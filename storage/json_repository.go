@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/athulrajhere/todo-cli/todo"
+	"github.com/athulrajhere/todocli/todo"
 )
 
 type JsonRepository struct {

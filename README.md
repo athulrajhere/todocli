@@ -1,10 +1,10 @@
-# todo-cli
+# todocli
 
 A fast, minimal todo manager for the terminal built with Go.
 
 ## Install
 ```bash
-go install github.com/athulrajhere/todo-cli@latest
+go install github.com/athulrajhere/todocli@latest
 ```
 
 ## Usage

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/athulrajhere/todo-cli/todo"
+	"github.com/athulrajhere/todocli/todo"
 	"github.com/manifoldco/promptui"
 )
 

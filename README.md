@@ -7,6 +7,12 @@ A fast, minimal todo manager for the terminal built with Go.
 go install github.com/athulrajhere/todocli@latest
 ```
 
+## Prerequisites
+Make sure `$HOME/go/bin` is in your PATH:
+```bash
+echo 'export PATH=$PATH:$HOME/go/bin' >> ~/.zshrc && source ~/.zshrc
+```
+
 ## Usage
 ```bash
 # Add a todo

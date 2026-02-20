@@ -10,16 +10,16 @@ go install github.com/athulrajhere/todocli@latest
 ## Usage
 ```bash
 # Add a todo
-todo add "Buy groceries"
+todocli add "Buy groceries"
 
 # List all todos
-todo list
+todocli list
 
 # Mark as complete (interactive)
-todo complete
+todocli complete
 
 # Delete a todo (interactive)
-todo delete
+todocli delete
 ```
 
 ## Built With
